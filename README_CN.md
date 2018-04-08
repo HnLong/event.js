@@ -1,6 +1,8 @@
 # [event.js](https://github.com/yanhaijing/event.js) [![](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/yanhaijing/jslib-base) [![npm](https://img.shields.io/badge/npm-0.4.0-orange.svg)](https://www.npmjs.com/package/@yanhaijing/event_js) [![Build Status](https://travis-ci.org/yanhaijing/event.js.svg?branch=master)](https://travis-ci.org/yanhaijing/event.js) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yanhaijing/event.js/blob/master/LICENSE)
 最好用的事件发射器基类和事件中心，原生兼容IE6
 
+## 迁移到 https://github.com/jsmini/event
+
 ## 兼容性
 单元测试保证支持如下环境：
 

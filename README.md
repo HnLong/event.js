@@ -3,6 +3,8 @@ The best event emitter and center, native compatible IE6
 
 [Chinese README](https://github.com/yanhaijing/event.js/blob/master/README_CN.md)
 
+## Migration to https://github.com/jsmini/event
+
 ## Compatibility
 Unit tests guarantee support for the following environments:
 
